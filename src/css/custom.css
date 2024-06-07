@@ -1,0 +1,12 @@
+*{
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  scroll-snap-align: start;
+  transition: all 0.2s ease-in-out;
+}
+::-webkit-scrollbar{
+  display: none;
+}
+body{
+  background: #f1f5f9;
+}
