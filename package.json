@@ -1,6 +1,6 @@
 {
   "name": "animex",
-  "private": true,
+  "private": false,
   "homepage": "https://abdulhawari810.github.io/anime-manga",
   "version": "0.0.0",
   "type": "module",
